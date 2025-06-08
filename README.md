@@ -206,15 +206,6 @@ Para nuevas características, abre un [issue](issues) describiendo:
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-## 👨‍💻 Autor
-
-**Desarrollado con ❤️ por [Tu Nombre]**
-
-- 🌐 Website: [tu-website.com]
-- 📧 Email: [tu-email@example.com]
-- 🐦 Twitter: [@tu-twitter]
-- 💼 LinkedIn: [tu-linkedin]
-
 ## 🙏 Agradecimientos
 
 - 🎨 Diseño inspirado en tendencias de UI/UX modernas
