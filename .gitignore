@@ -1,0 +1,53 @@
+# Plants Evolution - .gitignore
+
+# Archivos de configuración con datos sensibles
+plantas/config.php
+
+# Uploads de usuarios (fotos)
+plantas/uploads/*
+!plantas/uploads/.gitkeep
+
+# Backups de base de datos
+plantas/backups/
+*.sql.bak
+*.sql.backup
+
+# Logs de XAMPP
+*.log
+
+# Archivos temporales del sistema
+Thumbs.db
+.DS_Store
+*~
+
+# Archivos de configuración local
+plantas/scripts/update-ip.bat
+!plantas/scripts/update-ip.example.bat
+
+# Cache y archivos temporales de PHP
+*.cache
+.htaccess.bak
+
+# Archivos de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos del sistema Windows
+ehthumbs.db
+Desktop.ini
+
+# Archivos de backup de configuración
+plantas/backup/
+*.bak
+*.backup
+
+# Variables de entorno
+.env
+.env.local
+.env.production
+
+# Archivos de prueba temporales
+test_*
+temp_* 
